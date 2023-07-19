@@ -2,7 +2,7 @@ var images = [ "https://farelosjuridicos.com.br/colunistas/sites/default/files/b
 
 var names = ["family album", "Benito Carlito - grandpa", "Maria Veneto - grandma", "Mohamaad Bin Kuwaiti - father", "Carmen San Diego - mother", "Karen Smith - sister", "Juan Hernandez - brother"];
 
-var age = [85, 78, 50, 36, 16, 3];
+var age = [ "family ages" ,79, 69, 47, 43, 17, 5];
 
 age.sort();
 
